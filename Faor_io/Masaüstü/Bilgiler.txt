@@ -1,0 +1,12 @@
+win_ex açýlmazsa burdan açmayý dene => win_ex\build\windows\runner\Release\win_ex
+
+dosyalarý buraya koy => C:/Users/ahmet/Desktop/deneme.txt ---- C:/Users/ahmet/Desktop/aaa.txt
+
+1 = güç
+2 = oto
+3 = baþ
+4 = ileri
+5 = atanamaýþ
+6 = sag
+7 = geri
+8 = sol

@@ -1,0 +1,1 @@
+{"sag":1,"sol":0,"ileri":0,"geri":0,"bassag":0,"bassol":0,"guc":1,"bas":0,"oto":0}
